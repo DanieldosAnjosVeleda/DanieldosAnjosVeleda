@@ -1,10 +1,20 @@
 
-- 👀 Apaixonado por programação
-- 🌱 Atualmente aprendendo CSS, HTML e futuramente JavaScript
-- :telephone_receiver:    Me contate pelo E-mail: danieldosanjosveleda.1999@gmail.com
-
-
-<!---
-DanieldosAnjosVeleda/DanieldosAnjosVeleda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Óla! Meu nome é Daniel dos Anjos Veleda
+<div align="center">
+  <a href="https://github.com/DanieldosAnjosVeleda">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanieldosAnjosVeleda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanieldosAnjosVeleda&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Dan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Dan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+  
+  ##
+  
+  <div>
+    <a href="https://www.linkedin.com/in/daniel-dos-anjos-veleda-95b0691a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    
+   </div>
