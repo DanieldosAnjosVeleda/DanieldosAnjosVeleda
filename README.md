@@ -1,23 +1,19 @@
 
-## Óla! Meu nome é Daniel dos Anjos Veleda
-<div align="center">
-  <a href="https://github.com/DanieldosAnjosVeleda">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanieldosAnjosVeleda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanieldosAnjosVeleda&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Dan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Dan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Dan-Html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Dan-Css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-  
-  ##
-  
-  <div>
-    <a href="https://www.linkedin.com/in/daniel-dos-anjos-veleda-95b0691a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    
- </div>
+## Óla! Meu nome é Daniel✋
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=DanieldosAnjosVeleda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanieldosAnjosVeleda&layout=compact&langs_count=7&theme=dracula"/>
+
+
+
+<img align="left" alt="Dan-Js" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+<img align="left" alt="Dan-React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+
+<a href="https://www.linkedin.com/in/daniel-dos-anjos-veleda-95b0691a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+
+
     
   
  
